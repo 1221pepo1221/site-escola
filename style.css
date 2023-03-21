@@ -1,8 +1,18 @@
 .cabeçalho{
     background-color:#11939c;
+    color: aquamarine;
+    display: flex;
+    justify-content: space-around;
+    padding: 24px 0;
 } 
 
 .cabeçalho-imagem{
     width: 40%;
 }
 
+.cabeçalho-lista-item{
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 24px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
