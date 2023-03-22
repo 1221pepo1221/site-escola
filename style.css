@@ -1,6 +1,6 @@
 .cabeçalho{
     background-color:#11939c;
-    color: aquamarine;
+    color: rgb(12, 12, 51);
     display: flex;
     justify-content: space-around;
     padding: 24px 0;
@@ -16,3 +16,13 @@
     font-size: 24px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.escola{
+    background-color: #11939c;
+}
+
