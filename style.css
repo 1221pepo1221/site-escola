@@ -23,6 +23,11 @@
 }
 
 .escola{
-    background-color: #11939c;
+    background-image:linear-gradient(#11939c, #000000);
+    
 }
 
+.escola-image{
+    width: 20%;
+    
+}
