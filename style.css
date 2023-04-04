@@ -23,11 +23,19 @@
 }
 
 .escola{
-    background-image:linear-gradient(#11939c, #000000);
+    background-image:linear-gradient(#11939c, #15ff00);
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    padding: 24px 0;
     
 }
 
 .escola-image{
-    width: 20%;
+    width: 50%;
     
+}
+
+.escola-div-conteudo{
+    width: 35%;
 }
