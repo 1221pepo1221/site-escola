@@ -18,6 +18,8 @@
 }
 
 *{
+    font-family: 'Poppins', sans-serif;
+
     margin: 0;
     padding: 0;
 }
@@ -38,4 +40,12 @@
 
 .escola-div-conteudo{
     width: 35%;
+}
+
+.estudante-imagem{
+    width: 10%;
+}
+
+.estudantes{
+    background-color: #15ff00;
 }
