@@ -35,7 +35,7 @@
 
 .escola-image{
     width: 50%;
-    
+        
 }
 
 .escola-div-conteudo{
@@ -43,9 +43,15 @@
 }
 
 .estudante-imagem{
-    width: 10%;
+    width: 20%;
+    
 }
 
 .estudantes{
     background-color: #15ff00;
+
+}
+
+.estudante-icone{
+    width: 7%;
 }
