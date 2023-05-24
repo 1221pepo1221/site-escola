@@ -51,7 +51,7 @@
 }
 
 .estudante-icone{
-    width: 7%;
+    width: 10%;
 }
 
 .estudante-div{
@@ -63,20 +63,27 @@
 }
 
 .estudante-iconi{
-    width: 7%;
+    width: 10%;
 }
 
 .estudante-imagem-jm{
-   width: 17%
+   width: 20%
 }
 
 .estudante-imagem-jv{
-    width: 16%;
+    width: 20%;
 }
 
 .estudantes-todos{
     display: grid;
-    grid-template-columns: 20% 20% 20% 20% 20% 20%;
+    grid-template-columns: 30% 30% 30% 30% 30% 30%;
 }
 
+.rodape{
+    text-align: center;
+    background-image:linear-gradient(#15ff00, #064b00);
+}
 
+.jkk{
+    width: 10%;
+}
